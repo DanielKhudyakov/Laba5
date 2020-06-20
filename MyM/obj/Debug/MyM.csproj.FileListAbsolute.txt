@@ -1,0 +1,6 @@
+C:\Users\Даниил\source\repos\Laba5\MyM\bin\Debug\MyM.dll
+C:\Users\Даниил\source\repos\Laba5\MyM\bin\Debug\MyM.pdb
+C:\Users\Даниил\source\repos\Laba5\MyM\obj\Debug\MyM.csprojAssemblyReference.cache
+C:\Users\Даниил\source\repos\Laba5\MyM\obj\Debug\MyM.csproj.CoreCompileInputs.cache
+C:\Users\Даниил\source\repos\Laba5\MyM\obj\Debug\MyM.dll
+C:\Users\Даниил\source\repos\Laba5\MyM\obj\Debug\MyM.pdb

@@ -1,0 +1,10 @@
+C:\Users\Даниил\source\repos\Laba5\Laba5\bin\Debug\Laba5.exe.config
+C:\Users\Даниил\source\repos\Laba5\Laba5\bin\Debug\Laba5.exe
+C:\Users\Даниил\source\repos\Laba5\Laba5\bin\Debug\Laba5.pdb
+C:\Users\Даниил\source\repos\Laba5\Laba5\obj\Debug\Laba5.csprojAssemblyReference.cache
+C:\Users\Даниил\source\repos\Laba5\Laba5\obj\Debug\Laba5.csproj.CoreCompileInputs.cache
+C:\Users\Даниил\source\repos\Laba5\Laba5\obj\Debug\Laba5.exe
+C:\Users\Даниил\source\repos\Laba5\Laba5\obj\Debug\Laba5.pdb
+C:\Users\Даниил\source\repos\Laba5\Laba5\bin\Debug\MyM.dll
+C:\Users\Даниил\source\repos\Laba5\Laba5\bin\Debug\MyM.pdb
+C:\Users\Даниил\source\repos\Laba5\Laba5\obj\Debug\Laba5.csproj.CopyComplete
